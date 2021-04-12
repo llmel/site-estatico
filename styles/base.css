@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+.fonte_titulo {
+	font-family: "Teko";
+}
+
+.fonte_corpo {
+	font-family: "Patrick Hand";
+}
+
+header {
+	background: #1638C5;
+}
+
+.in_cabecalho {
+	padding: 20px 0;
+}
+
+.in_cabecalho .in_logo {
+	width: 15%;
+	margin-left: 40px;
+}
+
+.in_cabecalho .in_menu {
+	position: absolute;
+	top: 65px;
+	right: 0;
+}
+
+.in_cabecalho .in_menu li {
+	display: inline;
+	margin-right: 40px;
+}
+
+.in_cabecalho .in_menu a {
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+footer {
+	background: #051865;
+}
