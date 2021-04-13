@@ -2,3 +2,31 @@ main {
 	background-image: url("../images/site-background.jpg");
 	background-repeat: no-repeat;
 }
+
+.index_titulo {
+	font-size: 30px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.index_principal {
+	padding: 20px;
+}
+
+.index_identacao_paragrafo {
+	text-indent: 40px;
+}
+
+.index_corpo {
+	font-size: 25px;
+	margin: 25px 0;
+}
+
+.index_bandtec img {
+	width: 20%;
+	margin: 20px;
+}
+
+.index_bandtec {
+	display: flex;
+}

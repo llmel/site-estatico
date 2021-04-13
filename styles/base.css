@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
 
-.fonte_titulo {
+.base_fonte_titulo {
 	font-family: "Teko";
 }
 
-.fonte_corpo {
+.base_fonte_corpo {
 	font-family: "Patrick Hand";
 }
 
@@ -13,31 +13,46 @@ header {
 	background: #1638C5;
 }
 
-.in_cabecalho {
+.base_cabecalho {
 	padding: 20px 0;
 }
 
-.in_cabecalho .in_logo {
+.base_cabecalho .base_logo {
 	width: 15%;
 	margin-left: 40px;
 }
 
-.in_cabecalho .in_menu {
+.base_cabecalho .base_menu {
 	position: absolute;
 	top: 65px;
 	right: 0;
 }
 
-.in_cabecalho .in_menu li {
+.base_cabecalho .base_menu li {
 	display: inline;
 	margin-right: 40px;
 }
 
-.in_cabecalho .in_menu a {
+.base_cabecalho .base_menu a {
 	color: #FFFFFF;
 	font-size: 20px;
 }
 
 footer {
 	background: #051865;
+}
+
+.base_rodape {
+	color: #FFFFFF;
+	padding: 20px 0;
+	width: 800px;
+	margin: 0 auto;
+}
+
+.base_rodape p {
+	margin-bottom: 10px;
+}
+
+.base_rodape .base_copyright {
+	text-align: center;
 }
