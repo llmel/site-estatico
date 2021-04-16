@@ -1,0 +1,31 @@
+Passe o mouse por cima do card que deseja ler para que o texto da história de cada card seja revelado.
+
+estagiário - Entrei na Stefanini através da parceria 
+entre Stefanini e Bandtec. Eu fazia ADS, 
+e comecei estagiar na Stefanini em 07/
+2019. Entrei no setor chamado Sistemas
+Corporativos, que como o nome diz, é 
+responsável pelos sistemas internos da 
+empresa. 
+
+analista de suporte (estagiário) - Fiquei 1 ano e 4 meses atuando na equipe 
+de sustentação, onde eu atendia chamados 
+de vários dos sistemas internos e lidava 
+diretamente com os clientes. A equipe 
+não era segregada em níveis, então todos 
+os analistas atendiam todos os tipos de 
+chamados, dos simples aos complexos.
+
+desenvolvedor júnior (estagiário e CLT) - No meu último mês como estagiário eu fui
+para a equipe de desenvolvimento, dentro 
+de Sistemas Corporativos. Logo após esse 
+período de um mês eu terminei a faculdade 
+e fui efetivado como dev júnior. Trabalho 
+com ASP .NET WEB FORMS, Angular e .NET 
+Core.
+
+
+“Cocriando soluções para um futuro melhor”
+
+
+
