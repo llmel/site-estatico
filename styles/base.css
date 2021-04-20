@@ -9,6 +9,10 @@
 	font-family: "Patrick Hand";
 }
 
+.base_identacao_paragrafo {
+	text-indent: 40px;
+}
+
 header {
 	background: #1638C5;
 }

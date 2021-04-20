@@ -1,0 +1,41 @@
+main {
+	background-image: url("../images/background_formacoes.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.formacoes_principal {
+	padding: 20px;
+}
+
+.formacoes_paragrafos {
+	margin-bottom: 50px;
+}
+
+.formacoes_logo {
+	text-align: center;
+}
+
+.formacoes_logo img {
+	width: 25%;
+}
+
+.formacoes_logo_complementar {
+	margin: 50px 0;
+}
+
+.formacoes_formatacao_fonte {
+	font-size: 25px;
+	color: #FFFFFF;
+}
+
+.formacoes_tabela {
+	text-align: center;
+	background-color: #3D58C5;
+	width: 100%;
+}
+
+.formacoes_tabela td, .formacoes_tabela th {
+	border: 1px solid #000000;
+	padding: 8px 15px;
+}
