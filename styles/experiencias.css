@@ -47,6 +47,10 @@ main {
 	margin: 10px;
 }
 
+.experiencias_card:hover {
+	margin: 5px;
+}
+
 .experiencias_card_titulo {
 	text-align: center;
 	font-size: 28px;
@@ -57,6 +61,11 @@ main {
 	background-color: #B98100;
 	padding: 20px;
 	font-size: 23px;
+	color: #B98100;
+}
+
+.experiencias_card_corpo:hover {
+	color: #000000;
 }
 
 .experiencias_lema_stefanini {

@@ -1,0 +1,53 @@
+HTML
+Meu primeiro contato com programação foi com essa linguagem. Creio que também á para a maioria das pessoas. Trata-se de uma linguagem de marcação de texto, não é linguagem de programação.
+
+CSS
+Linguagem para definir estilos. Logo em seguida do HTML conheci o CSS, pois inevitavelmente as duas linguagens andam juntas.
+
+Javascript
+Essa foi a primeira de linguagem de programação de fato que tive contato. Foi durante o primeiro semestre da faculdade de ADS. Todo programador web utiliza essa linguagem, não há escapatória, é pré requisito.
+
+MySQL
+Foi o banco relacional utilizado na matéria de banco de dados durante o primeiro semestre da faculdade de ADS. Foi o primeiro banco de dados que tive contato.
+
+NodeJS
+Primeiro servidor web que tive contato, no primeiro semestre da faculdade também. Construí junto com meu grupo o projeto de aplicação web utilizando NodeJS.
+
+Git
+Primeiro sistema de controle de versão que conheci. Hoje é unanimidade, então nem tem muito o que falar, se tornou pré requisito de programação saber usar git.
+
+Azure
+Primeira nuvem que tive contato, também durante o primeiro semestre da faculdade. Hospedamos nossa aplicação web lá, através do plano de estudante.
+
+Java
+Primeira linguagem orientada a objetos que tive contato. Aprendi os conceitos de POO através dela, no segundo semestre da faculdade.
+
+SQLServer
+Como estávamos utilizando Azure, utilizamos o Microsoft SQL Server, pois facilitava o trabalho, bem mais do que subir uma instância de MySQL no Azure.
+
+React
+Framework frontend baseado em Javascript. Aprendi um pouco e utilizei durante o terceiro semestre da faculdade.
+
+Spring
+Framework backend baseado em Java. Aprendi um pouco e utilizei durante o terceiro semestre da faculdade também, para estudar conceitos HTTP e contrução de APIs REST.
+
+Wordpress
+Framework frontend/backend baseado em PHP. Wordpress é um CMS (Content Management System). Aprendi sobre ele através de um curso que fiz da empresa Hostnet.
+ 
+AWS
+Utilizei AWS durante o quarto semestre da faculdade, para aprender sobre conceitos de nuvem, computação distribuída, virtualização, balanceamento de carga, gateways, redes de computadores, servidores, etc.
+
+Android
+Programei um pouco de mobile no quarto semestre da faculdade. Nessa altura, o Google já havia mudado a linguagem oficial do Android, de Java para Kotlin.
+
+Microsoft .NET
+Meu contato com a plataforma .NET foi no trabalho na Stefanini. Contato principal foi com ASP .NET Web Forms.
+
+Angular
+Contato com o Angular também aconteceu já profissionalmente, na Stefanini. É o framework utilizado no frontend de um dos sistemas internos.
+
+
+Sou um programador mais identificado com o backend, pois tenho o pensamento mais lógico e pragmático do que criativo. Mas consigo me sair bem com frontend também, desde que haja um design definido e eu só tenha que desenvolver. Apesar do design desse site ter sido todo feito por mim, eu não tenho muita criatividade para definir cores, fontes, tamanhos e posições dos elementos, etc. Dito tudo isto, me considero um desenvolvedor fullstack. Segue lista de tecnologias que já tive contato:
+
+
+
