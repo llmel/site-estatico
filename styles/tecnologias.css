@@ -1,0 +1,74 @@
+main {
+	background-image: url("../images/background_tecnologias.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.tecnologias_principal {
+	padding: 20px;
+}
+
+.tecnologias_titulo {
+	font-size: 30px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.tecnologias_corpo {
+	font-size: 25px;
+	margin: 25px 0;
+}
+
+
+.tecnologias_tecs_linha {
+	display: flex;
+}
+
+.tecnologias_tecs_linha_unidade {
+	display: flex;
+	width: 100%;
+	margin: 40px 40px 40px 0;
+}
+
+.tecnologias_tecs_linha_unidade_img {
+	background-color: #FFF;
+	height: 130px;
+	border-style: solid;
+	border-color: #000;
+	border-width: 2px;
+	width: 30%;
+	margin-left: 40px;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.tecnologias_tecs_linha_unidade_img img {
+	width: auto;
+	height: 100%;
+}
+
+.tecnologias_tecs_linha_unidade_img_ajuste {
+	width: 95% !important;
+}
+
+.tecnologias_tecs_linha_unidade_descricao {
+	background-color: #FFF;
+	height: 150px;
+	border-style: solid;
+	border-color: #000;
+	border-width: 2px;
+	width: 70%
+}
+
+.tecnologias_tecs_linha_unidade_descricao_titulo {
+	font-size: 20px;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 5px;
+}
+
+.tecnologias_tecs_linha_unidade_descricao_corpo {
+	text-align: justify;
+	margin: 10px;
+	font-size: 17px;
+}
