@@ -1,0 +1,76 @@
+main {
+	background-image: url("../images/background_contato.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.contato_principal {
+	padding: 20px;
+}
+
+.contato_foto_e_links {
+	display: flex;
+	width: 100%;
+}
+
+.contato_foto_e_links_foto {
+	background-color: #FFF;
+	height: 200px;
+	border-style: solid;
+	border-color: #000;
+	border-width: 2px;
+	width: 20%;
+	text-align: center;
+	padding: 10px 0;
+	margin-right: 50px;
+}
+
+.contato_foto_e_links_foto img {
+	width: auto;
+	height: 100%;
+}
+
+.contato_foto_e_links_links {
+	background-color: #FFF;
+	height: 200px;
+	border-style: solid;
+	border-color: #000;
+	border-width: 2px;
+	width: 80%;
+	padding: 10px;
+}
+
+.contato_icones_e_links_redes_sociais {
+	height: 100%;
+}
+
+.contato_icone_e_link_rede_social {
+	height: 30%;
+	display: flex;
+	padding: 3px 0;
+}
+
+.contato_icones_redes_sociais {
+	width: 3%;
+}
+
+.contato_icone_e_link_rede_social span {
+	display: flex;
+	align-items: center;
+	padding-left: 10px;
+}
+
+.contato_frases {
+	color: #FFFFFF;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.contato_frases_introducao {
+	font-size: 30px;
+}
+
+.contato_frases_frase {
+	font-size: 25px;
+	margin-top: 15px;
+}
