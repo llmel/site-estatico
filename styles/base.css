@@ -46,6 +46,10 @@ footer {
 	background: #051865;
 }
 
+footer p a {
+	color: #FFF;
+}
+
 .base_rodape {
 	color: #FFFFFF;
 	padding: 20px 0;
